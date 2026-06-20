@@ -1,0 +1,13 @@
+power_bi ---> https://app.powerbi.com/groups/me/reports/b4518ade-b57c-417b-856c-026086afb65e/9b9b733c55e18119fb11?experience=power-bi
+
+
+streamlit_app_link --->https://e-commerce-analytics-predictive-insights-app-6ojfngdqzeyufqwyt.streamlit.app/order_volume_dashboard
+
+password --->12345
+
+GitHub_link ---> https://github.com/HarshitaSahu1/E-commerce-Analytics-Predictive-Insights-Hub
+
+
+manual_data_for_reference --->40000,45000,46000,40000,50000,45000,60000 
+
+6,7,8,9,10,11,12
