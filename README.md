@@ -111,7 +111,7 @@ Implemented forecasting models to predict future order volumes using historical 
 
 ### Power BI Dashboard
 
-[Add Power BI Link]
+[**Power BI Link**](https://app.powerbi.com/view?r=eyJrIjoiYTRjYzA2NjgtMjQ0OS00YTFhLWFkNzktMzU0MjFmYzBlOTg1IiwidCI6IjVlZjZhNGEwLTY4ZGQtNDdjMC04YTU1LWY0NjI1N2EyYzdmMiJ9)
 
 ### Project Presentation
 
