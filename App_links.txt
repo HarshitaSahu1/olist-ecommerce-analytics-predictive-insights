@@ -1,6 +1,6 @@
 power_bi 
 ---> Access the interactive Power BI dashboard here:
---->https://app.powerbi.com/groups/me/reports/b4518ade-b57c-417b-856c-026086afb65e/9b9b733c55e18119fb11?experience=power-bi
+--->https://app.powerbi.com/view?r=eyJrIjoiYTRjYzA2NjgtMjQ0OS00YTFhLWFkNzktMzU0MjFmYzBlOTg1IiwidCI6IjVlZjZhNGEwLTY4ZGQtNDdjMC04YTU1LWY0NjI1N2EyYzdmMiJ9
 
 
 Streamlit Web Application
