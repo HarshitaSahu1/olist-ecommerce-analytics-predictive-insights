@@ -85,9 +85,9 @@ Implemented forecasting models to predict future order volumes using historical 
 
 ## 📷 Dashboard Preview
 
-### Executive Dashboard
+### Order Fullfilment Dashboard
 
-(Add Screenshot)
+Customer_Intelligence_Hub.png
 
 ### Customer Analytics Dashboard
 
