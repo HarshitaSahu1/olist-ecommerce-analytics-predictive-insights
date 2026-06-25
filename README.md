@@ -87,19 +87,19 @@ Implemented forecasting models to predict future order volumes using historical 
 
 ### Order Fullfilment Dashboard
 
-Customer_Intelligence_Hub.png
+![Order Fulfillment Dashboard](Order_Fullfilment_Dashboards.png)
 
-### Customer Analytics Dashboard
+### Customer Intelligence Dashboard
 
-(Add Screenshot)
+![Order Fulfillment Dashboard](Order_Fullfilment_Dashboards.png)
 
 ### Delivery Performance Dashboard
 
-(Add Screenshot)
+![Order Fulfillment Dashboard](Order_Fullfilment_Dashboards.png)
 
 ### Forecasting Dashboard
 
-(Add Screenshot)
+![Order Fulfillment Dashboard](Order_Fullfilment_Dashboards.png)
 
 ---
 
