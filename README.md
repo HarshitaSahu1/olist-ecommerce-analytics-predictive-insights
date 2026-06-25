@@ -115,7 +115,7 @@ Implemented forecasting models to predict future order volumes using historical 
 
 ### Project Presentation
 
-[Add PPT/PDF Link]
+[View PPT](onlist_ecommerce.pptx)
 
 ---
 
